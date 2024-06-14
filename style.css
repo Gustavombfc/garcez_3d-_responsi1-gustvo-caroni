@@ -1,0 +1,5 @@
+body{background-color: black;}
+@media screen and (max-width: 600px){
+    body {background-color: blueviolet;}
+    h1 {color: aqua;}
+}
